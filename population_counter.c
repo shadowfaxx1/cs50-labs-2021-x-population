@@ -1,4 +1,5 @@
-# cs50-labs-2021-x-population #include<cs50.h>
+# cs50-labs-2021-x-population
+#include<cs50.h>
 #include<Stdio.h>
 
   main()
